@@ -278,6 +278,7 @@ def main_program_loop():
     def solve_recaptcha():
         global displayOk
         global snnumber3
+	snnumber3 = 0
         for snnumber2 in rgnumber:
             patha_iframe = (f"/html/body/div[{snnumber2}]/div[4]/iframe")
             displayOk3 = check_exists_by_xpath(patha_iframe)
