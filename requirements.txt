@@ -1,0 +1,9 @@
+﻿selenium==4.0.0
+pillow
+certifi
+python-dateutil
+pydub==0.25.1
+SpeechRecognition==3.8.1
+urllib3==1.26.6
+stem==1.8.0
+numpy
