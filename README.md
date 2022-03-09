@@ -69,7 +69,7 @@ Recaptcha-solution: xeonsim-opensea-upload-with-recaptcha-solution https://githu
      look like this : https://www.opensea.io/collection/yourcollectionsname/<B>assets/create</b></li>
   <li>If polygon please tick "polycon blockchain</li>
   <li>Please check "complete listing" for listing and unchecked for create NFT without listing step</li>
-  <li>If polygon please tick "polycon blockchain!</li>
+  <li>If polygon please tick "polygon blockchain!</li>
   <li>Select your images & json "src" folder</li>
    <li>double check your image / json format: 1.png or 1.json</li>
    </ul>
@@ -81,6 +81,9 @@ Download your compatible chromedriver.exe https://chromedriver.chromium.org/down
 # Message for a MacOS user
 Currently this script only tested in Windows 10. Not compatible for MacOS
 
+# Advise
+Use VPN to to avoid IP blacklist from reCaptcha
+  
 # Thanks
 Please share and leave your star<BR>
 If you found it useful, please purchase my NFTs <BR>
