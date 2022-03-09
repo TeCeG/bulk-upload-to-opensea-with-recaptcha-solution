@@ -18,6 +18,9 @@ Recaptcha-solution: xeonsim-opensea-upload-with-recaptcha-solution https://githu
   Easy step by step<BR>
   https://www.youtube.com/watch?v=j0WguSodGf8<BR>
 
+# Warning
+  High Risk of IP to be block by recaptcha. Use at your own discretion!
+  
 # Disclaimer
   This free version script are not collect or capture any information while it running.
   Make sure you are understand the all coding and process before running, please read line by line the original code before start running.
