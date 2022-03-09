@@ -35,6 +35,7 @@ Recaptcha-solution: xeonsim-opensea-upload-with-recaptcha-solution https://githu
 # Instructions
 <ul>
   <li>Download and extract this project in your local device (keep all files and folders that come with the repo in this folder)</li>
+  <li>Unzip ffmpeg, ffplay & ffprobe in the same folder</li>
   <li>Download and update Python. My python version is 3.8.10 * https://www.youtube.com/watch?v=9o4gDQvVkLU</li>
    <li>Put all the NFTs images into folder “src/images” (etc 1.png), and NFTs properties metadata .json file put into folder src/json. (etc 1.json)</li>
    <li>Open this project folder with any code editor and click "open powershell " or "Terminal"</li>
