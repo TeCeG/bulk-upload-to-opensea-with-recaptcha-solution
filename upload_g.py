@@ -73,7 +73,7 @@ def supportURL():
     webbrowser.open_new("https://opensea.io/collection/tece")
 
 def coffeeURL():
-    webbrowser.open_new("https://github.com/tece/bulk-upload-to-opensea-with-recaptcha-solution/#thanks")
+    webbrowser.open_new("https://github.com/teCeG/bulk-upload-to-opensea-with-recaptcha-solution/#thanks")
 
 class WebImage:
     def __init__(self, url):
