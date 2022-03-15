@@ -19,7 +19,8 @@ Recaptcha-solution: xeonsim-opensea-upload-with-recaptcha-solution https://githu
   https://www.youtube.com/watch?v=j0WguSodGf8<BR>
 
 # Warning
-  High Risk of IP to be block by recaptcha. Use at your own discretion!
+  High Risk of IP to be block by recaptcha Audio. Use at your own discretion!
+  Change IP to continue...
   
 # Disclaimer
   This free version script are not collect or capture any information while it running.
@@ -78,6 +79,15 @@ Recaptcha-solution: xeonsim-opensea-upload-with-recaptcha-solution https://githu
    </ul>
   </p>
 
+# Alternative (manual recaptcha)
+  <p><ul>
+  <li>Add extension "Buster: Captcha Solver for Humans" to chrome</li>
+   <li>Add API to the solver (optional)</li>
+   <li>Run <b>upload18_m.py</b></li>
+   <li>Run the recaptcha manually using "Buster: Captcha Solver for Humans"</b></li>
+  </ul>
+  </p>
+  
 # ChromeDriver - WebDriver for Chrome	
 Download your compatible chromedriver.exe https://chromedriver.chromium.org/downloads
      
@@ -85,7 +95,7 @@ Download your compatible chromedriver.exe https://chromedriver.chromium.org/down
 Currently this script only tested in Windows 10. Not compatible for MacOS
 
 # Advise
-Use VPN to to avoid IP blacklist from reCaptcha
+Use VPN to to avoid IP blacklist from reCaptcha Audio.
   
 # Thanks
 Please share and leave your star<BR>
