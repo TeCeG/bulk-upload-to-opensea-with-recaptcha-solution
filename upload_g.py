@@ -456,12 +456,13 @@ def main_program_loop():
         snnumber1 = "1"
         rgnumber = [11,10,12]
         solve_recaptcha()
+        time.sleep(2.5)
         snnumber1 = "2"
         rgnumber = [10,11,12]
         solve_recaptcha()
 
         try:
-            time.sleep(1.5)
+            time.sleep(3)
             cross = driver.find_element(By.XPATH, '/html/body/div[6]/div/div/div/div[2]/button/i')
             cross.click()
             time.sleep(0.8)
