@@ -43,7 +43,7 @@ lastdate = date(date.today().year, 12, 31)
 root = Tk()
 root.geometry('750x850')
 root.resizable(False, False)
-root.title("NFTs Upload to OpenSea v1.8.2")
+root.title("NFTs Upload to OpenSea - Manual recaptcha v1.1.0")
   
 input_save_list = ["NFTs folder :", 0, 0, 0, 0, 0, 0, 0, 0, 0]
 main_directory = os.path.join(sys.path[0])
@@ -428,7 +428,7 @@ def main_program_loop():
                 #print(endday, endmonth)
 
             #if duration_date != 30:
-            amount.send_keys(Keys.TAB)
+            amount.send_keys(Keys.TAB * 4 + Keys.SPACE)
             time.sleep(0.8)
             # wait_xpath('//*[@id="duration"]')
             # driver.find_element_by_xpath('//*[@id="duration"]').click()
