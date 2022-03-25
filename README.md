@@ -29,7 +29,11 @@ Recaptcha-solution: xeonsim-opensea-upload-with-recaptcha-solution https://githu
   
 # Changelog
   <ul>
-     <li><b>Version 1.0 (upload_g.py)</b>
+     <li><b>Version 1.1.0 (upload_g.py) & (upload_m.py)</b>
+      <ul>
+        <li>Listing duration fix</li>
+      </ul></li>
+     <li><b>Version 1.0.0 (upload_g.py)</b>
       <ul>
         <li>Standard version</li>
       </ul></li>
