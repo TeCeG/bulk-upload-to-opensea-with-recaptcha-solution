@@ -29,9 +29,10 @@ Recaptcha-solution: xeonsim-opensea-upload-with-recaptcha-solution https://githu
   
 # Changelog
   <ul>
-     <li><b>Version 1.1.0 (upload_g.py) & (upload_m.py)</b>
+     <li><b>Version 1.1.0 (upload_g.py) & (upload18_m.py) & (upload_gm.py)</b>
       <ul>
         <li>Listing duration fix</li>
+        <li>upload_gm.py - Added manual recaptcha solve when auto solve fail.</li>
       </ul></li>
      <li><b>Version 1.0.0 (upload_g.py)</b>
       <ul>
